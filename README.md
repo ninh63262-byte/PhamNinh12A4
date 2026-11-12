@@ -25,16 +25,14 @@ align="right"><font color="slate grey">I/ Một số thông tin cơ bản:</font
 <li>Trường Đại học Giao thông vận tải (UTC)</li>
 <li>Trường Đại học Công nghiệp Hà Nội (HaUI)</li>
 </ul>
-<p style="color:lime">IV/ Một vài thành tích mình đã đạt được:></p>
-<p>- Lần lượt là năm lớp 9 được tham gia thi học sinh giỏi cấp tỉnh môn sinh học, sau đó lên lớp 10 thì đạt được huy chương vàng bóng rổ nội dung 3x3
-<div style="display: flex; gap: 15px; justify-content: center;">
+<p style="color: #2980b9;">IV/ Một vài thành tích mình đã đạt được:</p>
+<p>Lần lượt là năm lớp 9 được tham gia thi học sinh giỏi cấp tỉnh môn sinh học, sau đó lên lớp 10 thì thi giải vàng bóng rổ nội dung 3x3</p>
+<div style="display: flex; gap: 15px; justify-content: center; margin: 15px 0;">
     <img src="a.jpg" style="width: 48%; height: auto; border-radius: 8px; object-fit: cover;">
     <img src="b.jpg" style="width: 48%; height: auto; border-radius: 8px; object-fit: cover;">
 </div>
-</p>
-<p>- Đây là trang cá nhân facebook của mình:</p>
-<a href="https://www.facebook.com/share/1F9zCZ9znF/?mibextid=wwXIfr" target="_blank">
-    <img src="c.jpg" 
-         alt="Facebook" 
-         width="50">
+
+<p>Đây là trang cá nhân facebook của mình:</p>
+<a href="https://www.facebook.com/share/1F9zCZ9znf/?mibextid=wwXIfr" target="_blank">
+    <img src="c.jpg" alt="Facebook" width="50">
 </a>
